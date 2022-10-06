@@ -26,7 +26,7 @@ Pelo aplicativo mobile, além das mesmas funções, é possível visualizar o Di
 ---
 
 - Versão Mobile
-<div>
+<div align="center">
   <img alt="GIF" src="./public/mobile1.jpeg" width="200">  
   <img alt="GIF" src="./public/mobile2.jpeg" width="200">  
   <img alt="GIF" src="./public/mobile3.jpeg" width="200">  
